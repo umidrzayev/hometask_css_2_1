@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box 0;
+
+}
+
+.border{
+    border: 2px dashed wheat ;
+    width: 600px;
+    padding: 500px;
+    margin: 30px;
+}

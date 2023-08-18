@@ -1,0 +1,13 @@
+div{
+    background-color: green;
+    color: red;
+    padding: 40px 20px ;
+    width: 400px;
+    border: 8px solid black;
+    text-align: center;
+    height: 100px;
+
+}
+p{
+    font-style: italic;
+}

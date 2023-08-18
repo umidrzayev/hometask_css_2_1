@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box 0;
+}
+.border1{
+    border: 22px solid gray;
+    width: 600px;
+    height: 430px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.border2{
+border: 30px solid blue;
+width: 500px;
+height:300px ;
+margin: 30px auto;
+
+}
+.border3{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(136, 94, 16) ;
+    margin:20px 40px 60px 40px;
+}
